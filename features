@@ -1,0 +1,6 @@
+Features
+
+✅ Upload an image (digit) → CNN predicts it
+✅ Draw directly in browser (Streamlit canvas) → AI guesses
+✅ Looks like a fun interactive game
+✅ Expandable: add shapes dataset (circles, triangles, squares) along with MNIST
