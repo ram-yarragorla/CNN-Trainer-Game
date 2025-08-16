@@ -1,0 +1,7 @@
+How to Run
+Install dependencies:
+pip install streamlit tensorflow opencv-python pillow streamlit-drawable-canvas
+Save the code as app.py
+Run:
+streamlit run app.py
+
